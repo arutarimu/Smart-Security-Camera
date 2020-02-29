@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/Img.png</file>
+        <file>Res/haarcascade_eye_tree_eyeglasses.xml</file>
+        <file>Res/haarcascade_frontalcatface.xml</file>
+        <file>Res/DataBase.txt</file>
+    </qresource>
+</RCC>
